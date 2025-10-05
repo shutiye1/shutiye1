@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Abdullahi Tahliil(Shutiye)<br><br>I'm a **Full Stack Developer** from **Somalia**, currently working at **Beco Company**.  <br>I specialize in building scalable backend systems and interactive frontend applications that deliver real value to users.<br><br>---<br><br>##  “Code with purpose. Build with impact.”<br>
+## 👋 Hi, I'm Abdullahi Tahliil(Shutiye)<br><br>I'm a **Full Stack Developer** from **Somalia**, currently working at **Beco Company**.  <br>I specialize in building scalable backend systems and interactive frontend applications that deliver real value to users.<br><br>---<br><br>##  “Code with purpose. Build with impact.”<br>
 
 
 ## 🌐 Socials:
